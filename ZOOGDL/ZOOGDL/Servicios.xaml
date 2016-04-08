@@ -1,0 +1,91 @@
+﻿<phone:PhoneApplicationPage 
+    x:Class="ZOOGDL.Servicios"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:viewModels="clr-namespace:ZOOGDL.ViewModels"
+    xmlns:telerikPrimitives="clr-namespace:Telerik.Windows.Controls;assembly=Telerik.Windows.Controls.Primitives"
+    xmlns:helpers="clr-namespace:ZOOGDL.Helpers"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    mc:Ignorable="d" d:DesignHeight="728" d:DesignWidth="480"
+    shell:SystemTray.IsVisible="True">
+
+    <UserControl.DataContext>
+        <viewModels:MainDataViewModel/>
+    </UserControl.DataContext>
+
+    <Grid x:Name="LayoutRoot" >
+        <Grid.Background>
+            <ImageBrush Stretch="Fill" ImageSource="/Images/Background.png"/>
+        </Grid.Background>
+
+        <ScrollViewer>
+            <Grid x:Name="ContentPanel" Grid.RowSpan="2" Height="1008">
+
+
+                <Button x:Name="Sanitarios" Margin="25,100,25,808" Foreground="{x:Null}" BorderBrush="{x:Null}" HorizontalContentAlignment="Left" Height="100" Click="Sanitarios_Click" >
+                    <StackPanel Height="60" Width="360" Orientation="Horizontal">
+                        <Image Source="Images/sanitarios.png" Stretch="Fill" />
+                        <TextBlock Text="   Sanitarios" FontSize="25" Foreground="#6f4b31" Height="79" Width="250" Margin="0,0,-35,0"  FontFamily="Segoe WP Regular"  />
+                    </StackPanel>
+                </Button>
+
+                <Button x:Name="Restaurantes" Margin="25,225,25,683" Foreground="{x:Null}" BorderBrush="{x:Null}" HorizontalContentAlignment="Left" Height="100" Click="Restaurantes_Click" >
+                    <StackPanel Height="60" Width="360"  Orientation="Horizontal">
+                        <Image Source="Images/comida.png" Stretch="Fill" />
+                        <TextBlock Text="   Restaurantes y fuentes de sodas" FontSize="25" Foreground="#6f4b31" Margin="0,0,-35,-20" FontFamily="Segoe WP Regular" TextWrapping="Wrap" Width="316" RenderTransformOrigin="0.5,0.5"/>
+                    </StackPanel>
+                </Button>
+
+                <Button x:Name="Cajero" Margin="25,350,25,558" Foreground="{x:Null}" BorderBrush="{x:Null}" HorizontalContentAlignment="Left" Height="100" Click="Cajero_Click" >
+                    <StackPanel Height="60" Width="360"  Orientation="Horizontal">
+                        <Image Source="Images/Cajeros.png" Stretch="Fill" />
+                        <TextBlock Text="   Cajero automático" FontSize="25" Foreground="#6f4b31" Height="79" Margin="0,0,-35,0" FontFamily="Segoe WP Regular"/>
+                    </StackPanel>
+                </Button>
+
+                <Button x:Name="Recuerdos" Margin="25,475,25,433" Foreground="{x:Null}" BorderBrush="{x:Null}" HorizontalContentAlignment="Left" Height="100" Click="Recuerdos_Click" >
+                    <StackPanel Height="60" Width="360"  Orientation="Horizontal">
+                        <Image Source="Images/regalos.png" Stretch="Fill" />
+                        <TextBlock Text="   Recuerdos y regalos" FontSize="25" Foreground="#6f4b31" Height="79" Margin="0,0,-35,0" FontFamily="Segoe WP Regular"/>
+                    </StackPanel>
+                </Button>
+
+                <Button x:Name="Telefonos" Margin="25,600,25,308" Foreground="{x:Null}" BorderBrush="{x:Null}" HorizontalContentAlignment="Left" Height="100" Click="Telefonos_Click" >
+                    <StackPanel Height="60" Width="360" Orientation="Horizontal">
+                        <Image Source="Images/telefonos.png" Stretch="Fill" />
+                        <TextBlock Text="   Teléfonos públicos" FontSize="25" Foreground="#6f4b31" Height="79" Margin="0,0,-35,0" FontFamily="Segoe WP Regular"/>
+                    </StackPanel>
+                </Button>
+
+                <Button x:Name="Auxilios" Margin="25,725,25,183" Foreground="{x:Null}" BorderBrush="{x:Null}" HorizontalContentAlignment="Left" Height="100" Click="Auxilios_Click" >
+                    <StackPanel Height="60" Width="360" Orientation="Horizontal">
+                        <Image Source="Images/primerosauxilios.png" Stretch="Fill" />
+                        <TextBlock Text="   Primeros auxilios" FontSize="25" Foreground="#6f4b31" Height="79" Margin="0,0,-35,0" FontFamily="Segoe WP Regular"/>
+                    </StackPanel>
+                </Button>
+
+                <Button x:Name="Informacion" Margin="25,850,25,58" Foreground="{x:Null}" BorderBrush="{x:Null}" HorizontalContentAlignment="Left" Height="100" Click="Informacion_Click" >
+                    <StackPanel Height="60" Width="360" Orientation="Horizontal">
+                        <Image Source="Images/módulosinfo.png" Stretch="Fill" />
+                        <TextBlock Text="   Módulos de información" FontSize="25" Foreground="#6f4b31" Height="79" Margin="0,0,-35,0" FontFamily="Segoe WP Regular"/>
+                    </StackPanel>
+                </Button>
+
+            </Grid>
+        </ScrollViewer>
+        <Image HorizontalAlignment="Left" Height="100" Width="480" Margin="0,668,0,0" VerticalAlignment="Top"  Source="/Images/footer.png" Stretch="Fill"/>
+        <Image Source="/Images/wood_header.png" Margin="0,0,0,750" Height="50" Width="480" Stretch="Fill" Canvas.ZIndex="0" />
+        <Image Source="/Images/Pergamino_servicios.png" Margin="10,10,320,692" Width="150" Height="65" Stretch="Fill" Canvas.ZIndex="0" />
+
+    </Grid>
+
+
+
+</phone:PhoneApplicationPage>

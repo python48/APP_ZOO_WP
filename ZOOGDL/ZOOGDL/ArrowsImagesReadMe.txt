@@ -1,0 +1,1 @@
+﻿You must set the Build Action property to “Content” for the LeftArrow.png and RightArrow.png files. Using the default value “Resource” will not allow the images to be accessed or displayed.

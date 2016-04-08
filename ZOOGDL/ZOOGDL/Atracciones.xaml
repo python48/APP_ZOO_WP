@@ -1,0 +1,471 @@
+﻿<phone:PhoneApplicationPage 
+    x:Class="ZOOGDL.Atracciones"
+   xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:telerikPrimitives="clr-namespace:Telerik.Windows.Controls;assembly=Telerik.Windows.Controls.Primitives"
+    xmlns:telerikCore="clr-namespace:Telerik.Windows.Controls;assembly=Telerik.Windows.Core"
+    xmlns:viewModels="clr-namespace:ZOOGDL.ViewModels"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    mc:Ignorable="d" d:DesignHeight="800" d:DesignWidth="480"
+    shell:SystemTray.IsVisible="True">
+
+
+
+    <UserControl.Resources>
+        <DataTemplate x:Key="StandardCustomHubTileTemplate">
+            <telerikPrimitives:RadCustomHubTile FrontContent="{Binding}" Margin="6" Width="173" Height="173">
+                <telerikPrimitives:RadCustomHubTile.FrontContentTemplate>
+                    <DataTemplate>
+                        <Grid>
+                            <Rectangle Fill="#FFE5C498"/>
+                        </Grid>
+                    </DataTemplate>
+                </telerikPrimitives:RadCustomHubTile.FrontContentTemplate>
+            </telerikPrimitives:RadCustomHubTile>
+        </DataTemplate>
+        <DataTemplate x:Key="FirstCustomHubTileTemplate">
+            <telerikPrimitives:RadCustomHubTile FrontContent="{Binding}" Margin="6" Width="173" Height="173">
+                <telerikPrimitives:RadCustomHubTile.FrontContentTemplate>
+                    <DataTemplate>
+                        <Grid>
+                            <Image Source="Images/HubTileImage.png"/>
+                        </Grid>
+                    </DataTemplate>
+                </telerikPrimitives:RadCustomHubTile.FrontContentTemplate>
+            </telerikPrimitives:RadCustomHubTile>
+        </DataTemplate>
+
+    </UserControl.Resources>
+
+    <Grid x:Name="LayoutRoot" >
+        <Grid.Background>
+            <ImageBrush Stretch="Fill" ImageSource="/Images/Background.png"/>
+        </Grid.Background>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+
+        </Grid.RowDefinitions>
+
+        
+
+
+        <ListBox Margin="0,10,0,0" Grid.RowSpan="3" ScrollViewer.VerticalScrollBarVisibility="Hidden" >
+            <ListBoxItem ScrollViewer.VerticalScrollBarVisibility="Auto" Height="1680">
+                <Grid ScrollViewer.VerticalScrollBarVisibility="Auto">
+                    <Grid x:Name="ContentPanel" Margin="12,75,10,0" ScrollViewer.VerticalScrollBarVisibility="Auto">
+
+
+
+
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="Auto"/>
+
+                        </Grid.RowDefinitions>
+
+                        <Image Name="Button_1" Width="165" Height="165" HorizontalAlignment="Center" Margin="41,36,252,524" Tap="Button_1_Tap"   />
+                        <Image Name="Button_2" Width="165" Height="165" HorizontalAlignment="Center" Margin="233,20,25,505" Tap="Button_2_Tap"   />
+                        <Image Name="Button_3" Width="165" Height="165" HorizontalAlignment="Center" Margin="43,230,250,330" Tap="Button_3_Tap"   />
+                        <Image Name="Button_4" Width="165" Height="165" HorizontalAlignment="Center" Margin="251,230,42,330" Tap="Button_4_Tap"   />
+                        <Image Name="Button_5" Width="165" Height="165" HorizontalAlignment="Center" Margin="43,424,250,136" Tap="Button_5_Tap"   />
+                        <Image Name="Button_6" Width="165" Height="165" HorizontalAlignment="Center" Margin="251,424,42,136" Tap="Button_6_Tap"   />
+                        <Image Name="Button_7" Width="165" Height="165" HorizontalAlignment="Center" Margin="43,620,250,-60" Tap="Button_7_Tap"   />
+                        <Image Name="Button_8" Width="165" Height="165" HorizontalAlignment="Center" Margin="251,620,42,-60" Tap="Button_8_Tap"   />
+                        <Image Name="Button_9" Width="165" Height="165" HorizontalAlignment="Center" Margin="43,820,250,-260" Tap="Button_9_Tap"   />
+                        <Image Name="Button_10" Width="165" Height="165" HorizontalAlignment="Center" Margin="251,820,42,-260" Tap="Button_10_Tap"   />
+                        <Image Name="Button_11" Width="165" Height="165" HorizontalAlignment="Center" Margin="41,1020,252,-460" Tap="Button_11_Tap"   />
+                        <Image Name="Button_12" Width="165" Height="165" HorizontalAlignment="Center" Margin="251,1020,42,-460" Tap="Button_12_Tap"   />
+                        <Image Name="Button_13" Width="165" Height="165" HorizontalAlignment="Center" Margin="41,1220,252,-660" Tap="Button_13_Tap"   />
+                        <Image Name="Button_14" Width="165" Height="165" HorizontalAlignment="Center" Margin="251,1220,42,-660" Tap="Button_14_Tap"   />
+
+                        <!--  <telerikPrimitives:RadSlideHubTile  Name="Button_1"
+        	Width="165"
+        	Height="165"
+        	HorizontalAlignment="Center"
+        	Margin="41,36,252,524"
+        	Padding="6"
+        	FontSize="{StaticResource PhoneFontSizeMedium}"
+        	FontFamily="{StaticResource PhoneFontFamilySemiLight}"
+            Tap="Button_1_Tap"                                                              
+        	telerikPrimitives:RadHubTileService.GroupTag="FirstLook"
+        	telerikCore:RadAnimationManager.IsAnimationEnabled="True" UpdateInterval="0:0:2" Grid.RowSpan="2">
+                            <telerikPrimitives:RadSlideHubTile.Background>
+                                <SolidColorBrush Color="#FFE5C498" Opacity="0.65" />
+                            </telerikPrimitives:RadSlideHubTile.Background>
+
+                            <telerikPrimitives:RadSlideHubTile.Picture>
+                                <Image Source=""
+        			Stretch="Fill"
+        			/>
+                            </telerikPrimitives:RadSlideHubTile.Picture>
+
+
+                        </telerikPrimitives:RadSlideHubTile>-->
+
+                        <!--<Button Name="btn_peces" Margin="25,20,233,505" Height="200" Width="200" BorderBrush="{x:Null}"  Click="btn_peces_Click" Content="" Grid.RowSpan="2" >
+                <Button.Background>
+                    <ImageBrush Stretch="Fill" ImageSource="/Images/peces.png"></ImageBrush>
+                </Button.Background>
+            </Button>-->
+
+                        <!--<telerikPrimitives:RadSlideHubTile  Name="Button_2"
+        	Width="165"
+        	Height="165"
+        	HorizontalAlignment="Center"
+        	Margin="233,20,25,505"
+        	Padding="6"
+        	FontSize="{StaticResource PhoneFontSizeMedium}"
+        	FontFamily="{StaticResource PhoneFontFamilySemiLight}"
+            Tap="Button_2_Tap"                               
+        	telerikPrimitives:RadHubTileService.GroupTag="FirstLook"
+        	telerikCore:RadAnimationManager.IsAnimationEnabled="True" UpdateInterval="0:0:3" Grid.RowSpan="2">
+                            <telerikPrimitives:RadSlideHubTile.Background>
+                                <SolidColorBrush Color="#FFE5C498" Opacity="0.65" />
+                            </telerikPrimitives:RadSlideHubTile.Background>
+
+                            <telerikPrimitives:RadSlideHubTile.Picture>
+                                <Image Source=""
+        			Stretch="Fill"
+        			/>
+                            </telerikPrimitives:RadSlideHubTile.Picture>
+
+
+                        </telerikPrimitives:RadSlideHubTile>-->
+
+                        <!--<Button x:Name="btn_anfibios" Margin="233,20,25,505" Height="200" Width="200" BorderBrush="{x:Null}" Click="btn_anfibios_Click" Grid.RowSpan="2">
+                <Button.Background>
+                    <ImageBrush Stretch="Fill" ImageSource="/Images/anfibios.png"/>
+                </Button.Background>
+            </Button>-->
+
+                        <!--<telerikPrimitives:RadSlideHubTile  Name="Button_4"
+        	Width="165"
+        	Height="165"
+        	HorizontalAlignment="Center"
+        	Margin="251,230,42,330"
+        	Padding="6"
+        	FontSize="{StaticResource PhoneFontSizeMedium}"
+        	FontFamily="{StaticResource PhoneFontFamilySemiLight}"
+            Tap="Button_4_Tap"                               
+        	telerikPrimitives:RadHubTileService.GroupTag="FirstLook"
+        	telerikCore:RadAnimationManager.IsAnimationEnabled="True" UpdateInterval="0:0:2">
+                            <telerikPrimitives:RadSlideHubTile.Background>
+                                <SolidColorBrush Color="#FFE5C498" Opacity="0.65" />
+                            </telerikPrimitives:RadSlideHubTile.Background>
+
+                            <telerikPrimitives:RadSlideHubTile.Picture>
+                                <Image Source=""
+        			Stretch="Fill"
+        			/>
+                            </telerikPrimitives:RadSlideHubTile.Picture>
+
+
+                        </telerikPrimitives:RadSlideHubTile>-->
+
+                        <!--<Button x:Name="btn_aves" Margin="233,55,25,301" Height="200" Width="200" BorderBrush="{x:Null}" Click="btn_aves_Click" Grid.Row="1" >
+                <Button.Background>
+                    <ImageBrush Stretch="Fill" ImageSource="/Images/aves.png"/>
+                </Button.Background>
+            </Button>-->
+
+                        <!--<telerikPrimitives:RadSlideHubTile  Name="Button_3"
+        	Width="165"
+        	Height="165"
+        	HorizontalAlignment="Center"
+        	Margin="43,230,250,330"
+        	Padding="6"
+        	FontSize="{StaticResource PhoneFontSizeSmall}"
+        	FontFamily="{StaticResource PhoneFontFamilySemiLight}"
+            Tap="Button_3_Tap"                               
+        	telerikPrimitives:RadHubTileService.GroupTag="FirstLook"
+        	telerikCore:RadAnimationManager.IsAnimationEnabled="True" UpdateInterval="0:0:4">
+                            <telerikPrimitives:RadSlideHubTile.Background>
+                                <SolidColorBrush Color="#FFE5C498" Opacity="0.65" />
+                            </telerikPrimitives:RadSlideHubTile.Background>
+
+                            <telerikPrimitives:RadSlideHubTile.Picture>
+                                <Image Source=""
+        			Stretch="Fill"
+        			/>
+                            </telerikPrimitives:RadSlideHubTile.Picture>
+
+
+                        </telerikPrimitives:RadSlideHubTile>-->
+
+                        <!--<Button x:Name="btn_reptiles" Margin="25,55,233,301" Height="200" Width="200" BorderBrush="{x:Null}" Click="btn_reptiles_Click" Grid.Row="1" >
+                <Button.Background>
+                    <ImageBrush Stretch="Fill" ImageSource="/Images/reptiles.png"/>
+                </Button.Background>
+            </Button>-->
+
+                        <!--<telerikPrimitives:RadSlideHubTile  Name="Button_5" 
+        	Width="165"
+        	Height="165"
+        	HorizontalAlignment="Center"
+        	Margin="43,424,250,136"
+        	Padding="6"                                               
+        	FontSize="{StaticResource PhoneFontSizeMedium}"
+        	FontFamily="{StaticResource PhoneFontFamilySemiLight}"
+            Tap="Button_5_Tap"                               
+        	telerikPrimitives:RadHubTileService.GroupTag="FirstLook"
+        	telerikCore:RadAnimationManager.IsAnimationEnabled="True" UpdateInterval="0:0:3">
+                            <telerikPrimitives:RadSlideHubTile.Background>
+                                <SolidColorBrush Color="#FFE5C498" Opacity="0.65" />
+                            </telerikPrimitives:RadSlideHubTile.Background>
+
+                            <telerikPrimitives:RadSlideHubTile.Picture>
+                                <Image Source=""
+        			Stretch="Fill"
+        			/>
+                            </telerikPrimitives:RadSlideHubTile.Picture>
+
+
+                        </telerikPrimitives:RadSlideHubTile>-->
+
+                        <!--<Button x:Name="btn_mamiferos" Margin="25,259,233,97" Height="200" Width="200" BorderBrush="{x:Null}" Click="btn_mamiferos_Click" Grid.Row="1" >
+                <Button.Background>
+                    <ImageBrush Stretch="Fill" ImageSource="/Images/mamiferos.png"/>
+                </Button.Background>
+            </Button>-->
+
+                        <!--<telerikPrimitives:RadSlideHubTile  Name="Button_6" UpdateInterval="0:0:4"
+        	Width="165"
+        	Height="165"
+        	HorizontalAlignment="Center"
+        	Margin="251,424,42,136"
+        	Padding="6"
+        	FontSize="{StaticResource PhoneFontSizeMedium}"
+        	FontFamily="{StaticResource PhoneFontFamilySemiLight}"
+            Tap="Button_6_Tap"                               
+        	telerikPrimitives:RadHubTileService.GroupTag="FirstLook"
+        	telerikCore:RadAnimationManager.IsAnimationEnabled="True" >
+                            <telerikPrimitives:RadSlideHubTile.Background>
+                                <SolidColorBrush Color="#FFE5C498" Opacity="0.65" />
+                            </telerikPrimitives:RadSlideHubTile.Background>
+
+                            <telerikPrimitives:RadSlideHubTile.Picture>
+                                <Image Source=""
+                           Stretch="Fill"
+        			/>
+                            </telerikPrimitives:RadSlideHubTile.Picture>
+
+
+                        </telerikPrimitives:RadSlideHubTile>-->
+
+                        <!--<telerikPrimitives:RadSlideHubTile  Name="Button_7" 
+        	Width="165"
+        	Height="165"
+        	HorizontalAlignment="Center"
+        	Margin="43,620,250,-60"
+        	Padding="6"                                               
+        	FontSize="{
+                    StaticResource PhoneFontSizeMedium}"
+        	FontFamily="{StaticResource PhoneFontFamilySemiLight}"
+            Tap="Button_7_Tap"                               
+        	telerikPrimitives:RadHubTileService.GroupTag="FirstLook"
+        	telerikCore:RadAnimationManager.IsAnimationEnabled="True" UpdateInterval="0:0:3">
+                            <telerikPrimitives:RadSlideHubTile.Background>
+                                <SolidColorBrush Color="#FFE5C498" Opacity="0.65" />
+                            </telerikPrimitives:RadSlideHubTile.Background>
+
+                            <telerikPrimitives:RadSlideHubTile.Picture>
+                                <Image Source=""
+        			Stretch="Fill"
+        			/>
+                            </telerikPrimitives:RadSlideHubTile.Picture>
+
+
+                        </telerikPrimitives:RadSlideHubTile>-->
+
+                        <!--<telerikPrimitives:RadSlideHubTile  Name="Button_8" UpdateInterval="0:0:4"
+        	Width="165"
+        	Height="165"
+        	HorizontalAlignment="Center"
+        	Margin="251,620,42,-60"
+        	Padding="6"
+        	FontSize="{StaticResource PhoneFontSizeMedium}"
+        	FontFamily="{StaticResource PhoneFontFamilySemiLight}"
+            Tap="Button_8_Tap"                               
+        	telerikPrimitives:RadHubTileService.GroupTag="FirstLook"
+        	telerikCore:RadAnimationManager.IsAnimationEnabled="True" >
+                            <telerikPrimitives:RadSlideHubTile.Background>
+                                <SolidColorBrush Color="#FFE5C498" Opacity="0.65" />
+                            </telerikPrimitives:RadSlideHubTile.Background>
+
+                            <telerikPrimitives:RadSlideHubTile.Picture>
+                                <Image Source=""
+                           Stretch="Fill"
+        			/>
+                            </telerikPrimitives:RadSlideHubTile.Picture>
+
+
+                        </telerikPrimitives:RadSlideHubTile>-->
+
+                        <!--<telerikPrimitives:RadSlideHubTile  Name="Button_9" 
+        	Width="165"
+        	Height="165"
+        	HorizontalAlignment="Center"
+        	Margin="43,820,250,-260"
+        	Padding="6"                                               
+        	FontSize="{
+                    StaticResource PhoneFontSizeMedium}"
+        	FontFamily="{StaticResource PhoneFontFamilySemiLight}"
+            Tap="Button_9_Tap"                               
+        	telerikPrimitives:RadHubTileService.GroupTag="FirstLook"
+        	telerikCore:RadAnimationManager.IsAnimationEnabled="True" UpdateInterval="0:0:3">
+                            <telerikPrimitives:RadSlideHubTile.Background>
+                                <SolidColorBrush Color="#FFE5C498" Opacity="0.65" />
+                            </telerikPrimitives:RadSlideHubTile.Background>
+
+                            <telerikPrimitives:RadSlideHubTile.Picture>
+                                <Image Source=""
+        			Stretch="Fill"
+        			/>
+                            </telerikPrimitives:RadSlideHubTile.Picture>
+
+
+                        </telerikPrimitives:RadSlideHubTile>-->
+
+                        <!--<telerikPrimitives:RadSlideHubTile  Name="Button_10" UpdateInterval="0:0:4"
+        	Width="165"
+        	Height="165"
+        	HorizontalAlignment="Center"
+        	Margin="251,820,42,-260"
+        	Padding="6"
+        	FontSize="{StaticResource PhoneFontSizeMedium}"
+        	FontFamily="{StaticResource PhoneFontFamilySemiLight}"
+            Tap="Button_10_Tap"                               
+        	telerikPrimitives:RadHubTileService.GroupTag="FirstLook"
+        	telerikCore:RadAnimationManager.IsAnimationEnabled="True" >
+                            <telerikPrimitives:RadSlideHubTile.Background>
+                                <SolidColorBrush Color="#FFE5C498" Opacity="0.65" />
+                            </telerikPrimitives:RadSlideHubTile.Background>
+
+                            <telerikPrimitives:RadSlideHubTile.Picture>
+                                <Image Source=""
+                           Stretch="Fill"
+        			/>
+                            </telerikPrimitives:RadSlideHubTile.Picture>
+
+
+                        </telerikPrimitives:RadSlideHubTile>-->
+
+                        <!--<telerikPrimitives:RadSlideHubTile  Name="Button_11" 
+        	Width="165"
+        	Height="165"
+        	HorizontalAlignment="Center"
+        	Margin="41,1020,252,-460"
+        	Padding="6"                                               
+        	FontSize="{
+                    StaticResource PhoneFontSizeMedium}"
+        	FontFamily="{StaticResource PhoneFontFamilySemiLight}"
+            Tap="Button_11_Tap"                               
+        	telerikPrimitives:RadHubTileService.GroupTag="FirstLook"
+        	telerikCore:RadAnimationManager.IsAnimationEnabled="True" UpdateInterval="0:0:3">
+                            <telerikPrimitives:RadSlideHubTile.Background>
+                                <SolidColorBrush Color="#FFE5C498" Opacity="0.65" />
+                            </telerikPrimitives:RadSlideHubTile.Background>
+
+                            <telerikPrimitives:RadSlideHubTile.Picture>
+                                <Image Source=""
+        			Stretch="Fill"
+        			/>
+                            </telerikPrimitives:RadSlideHubTile.Picture>
+
+
+                        </telerikPrimitives:RadSlideHubTile>-->
+
+                        <!--<telerikPrimitives:RadSlideHubTile  Name="Button_12" UpdateInterval="0:0:4"
+        	Width="165"
+        	Height="165"
+        	HorizontalAlignment="Center"
+        	Margin="251,1020,42,-460"
+        	Padding="6"
+        	FontSize="{StaticResource PhoneFontSizeMedium}"
+        	FontFamily="{StaticResource PhoneFontFamilySemiLight}"
+            Tap="Button_12_Tap"                               
+        	telerikPrimitives:RadHubTileService.GroupTag="FirstLook"
+        	telerikCore:RadAnimationManager.IsAnimationEnabled="True" >
+                            <telerikPrimitives:RadSlideHubTile.Background>
+                                <SolidColorBrush Color="#FFE5C498" Opacity="0.65" />
+                            </telerikPrimitives:RadSlideHubTile.Background>
+
+                            <telerikPrimitives:RadSlideHubTile.Picture>
+                                <Image Source=""
+                           Stretch="Fill"
+        			/>
+                            </telerikPrimitives:RadSlideHubTile.Picture>
+
+
+                        </telerikPrimitives:RadSlideHubTile>-->
+
+                        <!--<telerikPrimitives:RadSlideHubTile  Name="Button_13" UpdateInterval="0:0:4"
+        	Width="165"
+        	Height="165"
+        	HorizontalAlignment="Center"
+        	Margin="41,1220,252,-660"
+        	Padding="6"
+        	FontSize="{StaticResource PhoneFontSizeMedium}"
+        	FontFamily="{StaticResource PhoneFontFamilySemiLight}"
+            Tap="Button_13_Tap"                               
+        	telerikPrimitives:RadHubTileService.GroupTag="FirstLook"
+        	telerikCore:RadAnimationManager.IsAnimationEnabled="True" >
+                            <telerikPrimitives:RadSlideHubTile.Background>
+                                <SolidColorBrush Color="#FFE5C498" Opacity="0.65" />
+                            </telerikPrimitives:RadSlideHubTile.Background>
+
+                            <telerikPrimitives:RadSlideHubTile.Picture>
+                                <Image Source=""
+                           Stretch="Fill"
+        			/>
+                            </telerikPrimitives:RadSlideHubTile.Picture>
+
+
+                        </telerikPrimitives:RadSlideHubTile>-->
+
+                        <!--<telerikPrimitives:RadSlideHubTile  Name="Button_14" UpdateInterval="0:0:4"
+        	Width="165"
+        	Height="165"
+        	HorizontalAlignment="Center"
+        	Margin="251,1220,42,-660"
+        	Padding="6"
+        	FontSize="{StaticResource PhoneFontSizeMedium}"
+        	FontFamily="{StaticResource PhoneFontFamilySemiLight}"
+            Tap="Button_14_Tap"                               
+        	telerikPrimitives:RadHubTileService.GroupTag="FirstLook"
+        	telerikCore:RadAnimationManager.IsAnimationEnabled="True" >
+                            <telerikPrimitives:RadSlideHubTile.Background>
+                                <SolidColorBrush Color="#FFE5C498" Opacity="0.65" />
+                            </telerikPrimitives:RadSlideHubTile.Background>
+
+                            <telerikPrimitives:RadSlideHubTile.Picture>
+                                <Image Source=""
+                           Stretch="Fill"
+        			/>
+                            </telerikPrimitives:RadSlideHubTile.Picture>
+
+
+                        </telerikPrimitives:RadSlideHubTile>-->
+
+                    </Grid>
+                </Grid>
+            </ListBoxItem>
+        </ListBox>
+
+
+
+
+
+        <Image HorizontalAlignment="Left" Height="100" Width="480" Margin="0,668,0,0" VerticalAlignment="Top"  Source="/Images/footer.png" Stretch="Fill"/>
+        <Image Source="/Images/wood_header.png" Margin="0,0,0,718" Width="480" Stretch="Fill" Canvas.ZIndex="0" />
+        <Image Source="/Images/Pergamino_atracciones.png" Margin="10,10,320,694" Width="150" Stretch="Fill" Canvas.ZIndex="0" />
+
+    </Grid>
+
+</phone:PhoneApplicationPage>

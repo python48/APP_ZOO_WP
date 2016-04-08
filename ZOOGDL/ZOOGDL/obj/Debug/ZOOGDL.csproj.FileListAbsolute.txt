@@ -1,0 +1,261 @@
+c:\users\usuario\documents\visual studio 2013\Projects\ZOOGDL\ZOOGDL\Bin\Debug\Assets\ApplicationIcon.png
+c:\users\usuario\documents\visual studio 2013\Projects\ZOOGDL\ZOOGDL\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+c:\users\usuario\documents\visual studio 2013\Projects\ZOOGDL\ZOOGDL\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+c:\users\usuario\documents\visual studio 2013\Projects\ZOOGDL\ZOOGDL\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+c:\users\usuario\documents\visual studio 2013\Projects\ZOOGDL\ZOOGDL\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+c:\users\usuario\documents\visual studio 2013\Projects\ZOOGDL\ZOOGDL\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+c:\users\usuario\documents\visual studio 2013\Projects\ZOOGDL\ZOOGDL\Bin\Debug\ZOOGDL.dll
+c:\users\usuario\documents\visual studio 2013\Projects\ZOOGDL\ZOOGDL\Bin\Debug\ZOOGDL.pdb
+c:\users\usuario\documents\visual studio 2013\Projects\ZOOGDL\ZOOGDL\Bin\Debug\AppManifest.xaml
+c:\users\usuario\documents\visual studio 2013\Projects\ZOOGDL\ZOOGDL\Bin\Debug\Properties\WMAppManifest.xml
+c:\users\usuario\documents\visual studio 2013\Projects\ZOOGDL\ZOOGDL\Bin\Debug\ZOOGDL_Debug_AnyCPU.xap
+c:\users\usuario\documents\visual studio 2013\Projects\ZOOGDL\ZOOGDL\obj\Debug\ZOOGDL.dll
+c:\users\usuario\documents\visual studio 2013\Projects\ZOOGDL\ZOOGDL\obj\Debug\ZOOGDL.pdb
+c:\users\usuario\documents\visual studio 2013\Projects\ZOOGDL\ZOOGDL\obj\Debug\XapCacheFile.xml
+c:\users\usuario\documents\visual studio 2013\Projects\ZOOGDL\ZOOGDL\Bin\Debug\Telerik.Windows.Controls.Primitives.dll
+c:\users\usuario\documents\visual studio 2013\Projects\ZOOGDL\ZOOGDL\Bin\Debug\Telerik.Windows.Core.dll
+c:\users\usuario\documents\visual studio 2013\Projects\ZOOGDL\ZOOGDL\Bin\Debug\System.Windows.Interactivity.dll
+c:\users\usuario\documents\visual studio 2013\Projects\ZOOGDL\ZOOGDL\Bin\Debug\Telerik.Windows.Controls.Primitives.pdb
+c:\users\usuario\documents\visual studio 2013\Projects\ZOOGDL\ZOOGDL\Bin\Debug\Telerik.Windows.Controls.Primitives.xml
+c:\users\usuario\documents\visual studio 2013\Projects\ZOOGDL\ZOOGDL\Bin\Debug\Telerik.Windows.Core.pdb
+c:\users\usuario\documents\visual studio 2013\Projects\ZOOGDL\ZOOGDL\Bin\Debug\Telerik.Windows.Core.xml
+c:\users\usuario\documents\visual studio 2013\Projects\ZOOGDL\ZOOGDL\Bin\Debug\de-DE\Telerik.Windows.Controls.Primitives.resources.dll
+c:\users\usuario\documents\visual studio 2013\Projects\ZOOGDL\ZOOGDL\Bin\Debug\fr-FR\Telerik.Windows.Controls.Primitives.resources.dll
+c:\users\usuario\documents\visual studio 2013\Projects\ZOOGDL\ZOOGDL\Bin\Debug\it-IT\Telerik.Windows.Controls.Primitives.resources.dll
+c:\users\usuario\documents\visual studio 2013\Projects\ZOOGDL\ZOOGDL\Bin\Debug\de\System.Windows.Interactivity.resources.dll
+c:\users\usuario\documents\visual studio 2013\Projects\ZOOGDL\ZOOGDL\Bin\Debug\en\System.Windows.Interactivity.resources.dll
+c:\users\usuario\documents\visual studio 2013\Projects\ZOOGDL\ZOOGDL\Bin\Debug\es\System.Windows.Interactivity.resources.dll
+c:\users\usuario\documents\visual studio 2013\Projects\ZOOGDL\ZOOGDL\Bin\Debug\fr\System.Windows.Interactivity.resources.dll
+c:\users\usuario\documents\visual studio 2013\Projects\ZOOGDL\ZOOGDL\Bin\Debug\it\System.Windows.Interactivity.resources.dll
+c:\users\usuario\documents\visual studio 2013\Projects\ZOOGDL\ZOOGDL\Bin\Debug\ja\System.Windows.Interactivity.resources.dll
+c:\users\usuario\documents\visual studio 2013\Projects\ZOOGDL\ZOOGDL\Bin\Debug\ko\System.Windows.Interactivity.resources.dll
+c:\users\usuario\documents\visual studio 2013\Projects\ZOOGDL\ZOOGDL\Bin\Debug\ru\System.Windows.Interactivity.resources.dll
+c:\users\usuario\documents\visual studio 2013\Projects\ZOOGDL\ZOOGDL\Bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+c:\users\usuario\documents\visual studio 2013\Projects\ZOOGDL\ZOOGDL\Bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+c:\users\usuario\documents\visual studio 2013\Projects\ZOOGDL\ZOOGDL\obj\Debug\App.g.cs
+c:\users\usuario\documents\visual studio 2013\Projects\ZOOGDL\ZOOGDL\obj\Debug\About.g.cs
+c:\users\usuario\documents\visual studio 2013\Projects\ZOOGDL\ZOOGDL\obj\Debug\MainPage.g.cs
+c:\users\usuario\documents\visual studio 2013\Projects\ZOOGDL\ZOOGDL\obj\Debug\ZOOGDL.g.resources
+c:\users\usuario\documents\visual studio 2013\Projects\ZOOGDL\ZOOGDL\obj\Debug\ZOOGDL.Resources.AppResources.resources
+c:\users\usuario\documents\visual studio 2013\Projects\ZOOGDL\ZOOGDL\obj\Debug\ZOOGDL.csproj.GenerateResource.Cache
+c:\users\usuario\documents\visual studio 2013\Projects\ZOOGDL\ZOOGDL\Bin\Debug\Newtonsoft.Json.dll
+c:\users\usuario\documents\visual studio 2013\Projects\ZOOGDL\ZOOGDL\Bin\Debug\Newtonsoft.Json.xml
+c:\users\usuario\documents\visual studio 2013\Projects\ZOOGDL\ZOOGDL\obj\Debug\Especies.g.cs
+C:\Users\Usuario\documents\visual studio 2013\Projects\ZOOGDL\ZOOGDL\obj\Debug\ExtendedSplashScreen.g.cs
+C:\Users\Usuario\documents\visual studio 2013\Projects\ZOOGDL\ZOOGDL\Bin\Debug\Telerik.Windows.Controls.Data.dll
+C:\Users\Usuario\documents\visual studio 2013\Projects\ZOOGDL\ZOOGDL\Bin\Debug\Telerik.Windows.Data.dll
+C:\Users\Usuario\documents\visual studio 2013\Projects\ZOOGDL\ZOOGDL\Bin\Debug\Telerik.Windows.Controls.Data.pdb
+C:\Users\Usuario\documents\visual studio 2013\Projects\ZOOGDL\ZOOGDL\Bin\Debug\Telerik.Windows.Controls.Data.xml
+C:\Users\Usuario\documents\visual studio 2013\Projects\ZOOGDL\ZOOGDL\Bin\Debug\Telerik.Windows.Data.pdb
+C:\Users\Usuario\documents\visual studio 2013\Projects\ZOOGDL\ZOOGDL\Bin\Debug\Telerik.Windows.Data.xml
+C:\Users\Usuario\documents\visual studio 2013\Projects\ZOOGDL\ZOOGDL\obj\Debug\Atracciones.g.cs
+C:\Users\Usuario\documents\visual studio 2013\Projects\ZOOGDL\ZOOGDL\obj\Debug\Servicios.g.cs
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\ZOOGDL\ZOOGDL\obj\Debug\AnimalData.g.cs
+C:\Users\Usuario\documents\visual studio 2013\Projects\ZOOGDL\ZOOGDL\obj\Debug\AttractionData.g.cs
+C:\Users\Usuario\documents\visual studio 2013\Projects\ZOOGDL\ZOOGDL\obj\Debug\AboutPage.g.cs
+C:\Users\Usuario\documents\visual studio 2013\Projects\ZOOGDL\ZOOGDL\obj\Debug\Map.g.cs
+C:\Users\Usuario\documents\visual studio 2013\Projects\ZOOGDL\ZOOGDL\obj\Debug\MapIcon.g.cs
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\ZOOGDL\ZOOGDL\obj\Debug\ZOOGDL.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\ZOOGDL\ZOOGDL\ZOOGDL\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\ZOOGDL\ZOOGDL\ZOOGDL\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\ZOOGDL\ZOOGDL\ZOOGDL\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\ZOOGDL\ZOOGDL\ZOOGDL\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\ZOOGDL\ZOOGDL\ZOOGDL\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\ZOOGDL\ZOOGDL\ZOOGDL\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\ZOOGDL\ZOOGDL\ZOOGDL\Bin\Debug\ZOOGDL.dll
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\ZOOGDL\ZOOGDL\ZOOGDL\Bin\Debug\ZOOGDL.pdb
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\ZOOGDL\ZOOGDL\ZOOGDL\Bin\Debug\AppManifest.xaml
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\ZOOGDL\ZOOGDL\ZOOGDL\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\ZOOGDL\ZOOGDL\ZOOGDL\Bin\Debug\ZOOGDL_Debug_AnyCPU.xap
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\ZOOGDL\ZOOGDL\ZOOGDL\Bin\Debug\GART.WP8.dll
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\ZOOGDL\ZOOGDL\ZOOGDL\Bin\Debug\Newtonsoft.Json.dll
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\ZOOGDL\ZOOGDL\ZOOGDL\Bin\Debug\Telerik.Windows.Controls.Data.dll
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\ZOOGDL\ZOOGDL\ZOOGDL\Bin\Debug\Telerik.Windows.Controls.Primitives.dll
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\ZOOGDL\ZOOGDL\ZOOGDL\Bin\Debug\Telerik.Windows.Core.dll
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\ZOOGDL\ZOOGDL\ZOOGDL\Bin\Debug\Telerik.Windows.Data.dll
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\ZOOGDL\ZOOGDL\ZOOGDL\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\ZOOGDL\ZOOGDL\ZOOGDL\Bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\ZOOGDL\ZOOGDL\ZOOGDL\Bin\Debug\GART.WP8.pdb
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\ZOOGDL\ZOOGDL\ZOOGDL\Bin\Debug\Newtonsoft.Json.xml
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\ZOOGDL\ZOOGDL\ZOOGDL\Bin\Debug\Telerik.Windows.Controls.Data.pdb
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\ZOOGDL\ZOOGDL\ZOOGDL\Bin\Debug\Telerik.Windows.Controls.Data.xml
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\ZOOGDL\ZOOGDL\ZOOGDL\Bin\Debug\Telerik.Windows.Controls.Primitives.pdb
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\ZOOGDL\ZOOGDL\ZOOGDL\Bin\Debug\Telerik.Windows.Controls.Primitives.xml
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\ZOOGDL\ZOOGDL\ZOOGDL\Bin\Debug\Telerik.Windows.Core.pdb
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\ZOOGDL\ZOOGDL\ZOOGDL\Bin\Debug\Telerik.Windows.Core.xml
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\ZOOGDL\ZOOGDL\ZOOGDL\Bin\Debug\Telerik.Windows.Data.pdb
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\ZOOGDL\ZOOGDL\ZOOGDL\Bin\Debug\Telerik.Windows.Data.xml
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\ZOOGDL\ZOOGDL\ZOOGDL\Bin\Debug\de-DE\Telerik.Windows.Controls.Primitives.resources.dll
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\ZOOGDL\ZOOGDL\ZOOGDL\Bin\Debug\fr-FR\Telerik.Windows.Controls.Primitives.resources.dll
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\ZOOGDL\ZOOGDL\ZOOGDL\Bin\Debug\it-IT\Telerik.Windows.Controls.Primitives.resources.dll
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\ZOOGDL\ZOOGDL\ZOOGDL\Bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\ZOOGDL\ZOOGDL\ZOOGDL\Bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\ZOOGDL\ZOOGDL\ZOOGDL\Bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\ZOOGDL\ZOOGDL\ZOOGDL\Bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\ZOOGDL\ZOOGDL\ZOOGDL\Bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\ZOOGDL\ZOOGDL\ZOOGDL\Bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\ZOOGDL\ZOOGDL\ZOOGDL\Bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\ZOOGDL\ZOOGDL\ZOOGDL\Bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\ZOOGDL\ZOOGDL\ZOOGDL\Bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\ZOOGDL\ZOOGDL\ZOOGDL\Bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\ZOOGDL\ZOOGDL\ZOOGDL\obj\Debug\App.g.cs
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\ZOOGDL\ZOOGDL\ZOOGDL\obj\Debug\About.g.cs
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\ZOOGDL\ZOOGDL\ZOOGDL\obj\Debug\AboutPage.g.cs
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\ZOOGDL\ZOOGDL\ZOOGDL\obj\Debug\AnimalData.g.cs
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\ZOOGDL\ZOOGDL\ZOOGDL\obj\Debug\Atracciones.g.cs
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\ZOOGDL\ZOOGDL\ZOOGDL\obj\Debug\AttractionData.g.cs
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\ZOOGDL\ZOOGDL\ZOOGDL\obj\Debug\Especies.g.cs
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\ZOOGDL\ZOOGDL\ZOOGDL\obj\Debug\ExtendedSplashScreen.g.cs
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\ZOOGDL\ZOOGDL\ZOOGDL\obj\Debug\MainPage.g.cs
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\ZOOGDL\ZOOGDL\ZOOGDL\obj\Debug\Map.g.cs
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\ZOOGDL\ZOOGDL\ZOOGDL\obj\Debug\MapIcon.g.cs
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\ZOOGDL\ZOOGDL\ZOOGDL\obj\Debug\Servicios.g.cs
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\ZOOGDL\ZOOGDL\ZOOGDL\obj\Debug\ZOOGDL.g.resources
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\ZOOGDL\ZOOGDL\ZOOGDL\obj\Debug\ZOOGDL.Resources.AppResources.resources
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\ZOOGDL\ZOOGDL\ZOOGDL\obj\Debug\ZOOGDL.csproj.GenerateResource.Cache
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\ZOOGDL\ZOOGDL\ZOOGDL\obj\Debug\ZOOGDL.dll
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\ZOOGDL\ZOOGDL\ZOOGDL\obj\Debug\ZOOGDL.pdb
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\ZOOGDL\ZOOGDL\ZOOGDL\obj\Debug\XapCacheFile.xml
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\ZOOGDL\ZOOGDL\ZOOGDL\obj\Debug\ZOOGDL.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\ZOOGDL\ZOOGDL\ZOOGDL\ZOOGDL\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\ZOOGDL\ZOOGDL\ZOOGDL\ZOOGDL\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\ZOOGDL\ZOOGDL\ZOOGDL\ZOOGDL\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\ZOOGDL\ZOOGDL\ZOOGDL\ZOOGDL\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\ZOOGDL\ZOOGDL\ZOOGDL\ZOOGDL\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\ZOOGDL\ZOOGDL\ZOOGDL\ZOOGDL\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\ZOOGDL\ZOOGDL\ZOOGDL\ZOOGDL\Bin\Debug\ZOOGDL.dll
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\ZOOGDL\ZOOGDL\ZOOGDL\ZOOGDL\Bin\Debug\ZOOGDL.pdb
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\ZOOGDL\ZOOGDL\ZOOGDL\ZOOGDL\Bin\Debug\AppManifest.xaml
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\ZOOGDL\ZOOGDL\ZOOGDL\ZOOGDL\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\ZOOGDL\ZOOGDL\ZOOGDL\ZOOGDL\Bin\Debug\ZOOGDL_Debug_AnyCPU.xap
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\ZOOGDL\ZOOGDL\ZOOGDL\ZOOGDL\Bin\Debug\Newtonsoft.Json.dll
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\ZOOGDL\ZOOGDL\ZOOGDL\ZOOGDL\Bin\Debug\Telerik.Windows.Controls.Data.dll
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\ZOOGDL\ZOOGDL\ZOOGDL\ZOOGDL\Bin\Debug\Telerik.Windows.Controls.Primitives.dll
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\ZOOGDL\ZOOGDL\ZOOGDL\ZOOGDL\Bin\Debug\Telerik.Windows.Core.dll
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\ZOOGDL\ZOOGDL\ZOOGDL\ZOOGDL\Bin\Debug\Telerik.Windows.Data.dll
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\ZOOGDL\ZOOGDL\ZOOGDL\ZOOGDL\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\ZOOGDL\ZOOGDL\ZOOGDL\ZOOGDL\Bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\ZOOGDL\ZOOGDL\ZOOGDL\ZOOGDL\Bin\Debug\GART.WP8.pdb
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\ZOOGDL\ZOOGDL\ZOOGDL\ZOOGDL\Bin\Debug\Newtonsoft.Json.xml
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\ZOOGDL\ZOOGDL\ZOOGDL\ZOOGDL\Bin\Debug\Telerik.Windows.Controls.Data.pdb
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\ZOOGDL\ZOOGDL\ZOOGDL\ZOOGDL\Bin\Debug\Telerik.Windows.Controls.Data.xml
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\ZOOGDL\ZOOGDL\ZOOGDL\ZOOGDL\Bin\Debug\Telerik.Windows.Controls.Primitives.pdb
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\ZOOGDL\ZOOGDL\ZOOGDL\ZOOGDL\Bin\Debug\Telerik.Windows.Controls.Primitives.xml
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\ZOOGDL\ZOOGDL\ZOOGDL\ZOOGDL\Bin\Debug\Telerik.Windows.Core.pdb
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\ZOOGDL\ZOOGDL\ZOOGDL\ZOOGDL\Bin\Debug\Telerik.Windows.Core.xml
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\ZOOGDL\ZOOGDL\ZOOGDL\ZOOGDL\Bin\Debug\Telerik.Windows.Data.pdb
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\ZOOGDL\ZOOGDL\ZOOGDL\ZOOGDL\Bin\Debug\Telerik.Windows.Data.xml
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\ZOOGDL\ZOOGDL\ZOOGDL\ZOOGDL\Bin\Debug\de-DE\Telerik.Windows.Controls.Primitives.resources.dll
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\ZOOGDL\ZOOGDL\ZOOGDL\ZOOGDL\Bin\Debug\fr-FR\Telerik.Windows.Controls.Primitives.resources.dll
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\ZOOGDL\ZOOGDL\ZOOGDL\ZOOGDL\Bin\Debug\it-IT\Telerik.Windows.Controls.Primitives.resources.dll
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\ZOOGDL\ZOOGDL\ZOOGDL\ZOOGDL\Bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\ZOOGDL\ZOOGDL\ZOOGDL\ZOOGDL\Bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\ZOOGDL\ZOOGDL\ZOOGDL\ZOOGDL\Bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\ZOOGDL\ZOOGDL\ZOOGDL\ZOOGDL\Bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\ZOOGDL\ZOOGDL\ZOOGDL\ZOOGDL\Bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\ZOOGDL\ZOOGDL\ZOOGDL\ZOOGDL\Bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\ZOOGDL\ZOOGDL\ZOOGDL\ZOOGDL\Bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\ZOOGDL\ZOOGDL\ZOOGDL\ZOOGDL\Bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\ZOOGDL\ZOOGDL\ZOOGDL\ZOOGDL\Bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\ZOOGDL\ZOOGDL\ZOOGDL\ZOOGDL\Bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\ZOOGDL\ZOOGDL\ZOOGDL\ZOOGDL\obj\Debug\ZOOGDL.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\ZOOGDL\ZOOGDL\ZOOGDL\ZOOGDL\obj\Debug\App.g.cs
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\ZOOGDL\ZOOGDL\ZOOGDL\ZOOGDL\obj\Debug\About.g.cs
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\ZOOGDL\ZOOGDL\ZOOGDL\ZOOGDL\obj\Debug\AboutPage.g.cs
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\ZOOGDL\ZOOGDL\ZOOGDL\ZOOGDL\obj\Debug\AnimalData.g.cs
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\ZOOGDL\ZOOGDL\ZOOGDL\ZOOGDL\obj\Debug\Atracciones.g.cs
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\ZOOGDL\ZOOGDL\ZOOGDL\ZOOGDL\obj\Debug\AttractionData.g.cs
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\ZOOGDL\ZOOGDL\ZOOGDL\ZOOGDL\obj\Debug\Especies.g.cs
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\ZOOGDL\ZOOGDL\ZOOGDL\ZOOGDL\obj\Debug\ExtendedSplashScreen.g.cs
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\ZOOGDL\ZOOGDL\ZOOGDL\ZOOGDL\obj\Debug\MainPage.g.cs
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\ZOOGDL\ZOOGDL\ZOOGDL\ZOOGDL\obj\Debug\Map.g.cs
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\ZOOGDL\ZOOGDL\ZOOGDL\ZOOGDL\obj\Debug\MapIcon.g.cs
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\ZOOGDL\ZOOGDL\ZOOGDL\ZOOGDL\obj\Debug\Servicios.g.cs
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\ZOOGDL\ZOOGDL\ZOOGDL\ZOOGDL\obj\Debug\ZOOGDL.g.resources
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\ZOOGDL\ZOOGDL\ZOOGDL\ZOOGDL\obj\Debug\ZOOGDL.Resources.AppResources.resources
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\ZOOGDL\ZOOGDL\ZOOGDL\ZOOGDL\obj\Debug\ZOOGDL.csproj.GenerateResource.Cache
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\ZOOGDL\ZOOGDL\ZOOGDL\ZOOGDL\obj\Debug\ZOOGDL.dll
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\ZOOGDL\ZOOGDL\ZOOGDL\ZOOGDL\obj\Debug\ZOOGDL.pdb
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\ZOOGDL\ZOOGDL\ZOOGDL\ZOOGDL\obj\Debug\XapCacheFile.xml
+C:\Users\Usuario\Documents\Mario\ZOOGDL12\ZOOGDL\ZOOGDL\ZOOGDL\ZOOGDL\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\Usuario\Documents\Mario\ZOOGDL12\ZOOGDL\ZOOGDL\ZOOGDL\ZOOGDL\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Usuario\Documents\Mario\ZOOGDL12\ZOOGDL\ZOOGDL\ZOOGDL\ZOOGDL\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Usuario\Documents\Mario\ZOOGDL12\ZOOGDL\ZOOGDL\ZOOGDL\ZOOGDL\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Usuario\Documents\Mario\ZOOGDL12\ZOOGDL\ZOOGDL\ZOOGDL\ZOOGDL\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Usuario\Documents\Mario\ZOOGDL12\ZOOGDL\ZOOGDL\ZOOGDL\ZOOGDL\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\Usuario\Documents\Mario\ZOOGDL12\ZOOGDL\ZOOGDL\ZOOGDL\ZOOGDL\Bin\Debug\ZOOGDL.dll
+C:\Users\Usuario\Documents\Mario\ZOOGDL12\ZOOGDL\ZOOGDL\ZOOGDL\ZOOGDL\Bin\Debug\ZOOGDL.pdb
+C:\Users\Usuario\Documents\Mario\ZOOGDL12\ZOOGDL\ZOOGDL\ZOOGDL\ZOOGDL\Bin\Debug\AppManifest.xaml
+C:\Users\Usuario\Documents\Mario\ZOOGDL12\ZOOGDL\ZOOGDL\ZOOGDL\ZOOGDL\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\Usuario\Documents\Mario\ZOOGDL12\ZOOGDL\ZOOGDL\ZOOGDL\ZOOGDL\Bin\Debug\ZOOGDL_Debug_AnyCPU.xap
+C:\Users\Usuario\Documents\Mario\ZOOGDL12\ZOOGDL\ZOOGDL\ZOOGDL\ZOOGDL\Bin\Debug\Newtonsoft.Json.dll
+C:\Users\Usuario\Documents\Mario\ZOOGDL12\ZOOGDL\ZOOGDL\ZOOGDL\ZOOGDL\Bin\Debug\Telerik.Windows.BackgroundAgentTools.dll
+C:\Users\Usuario\Documents\Mario\ZOOGDL12\ZOOGDL\ZOOGDL\ZOOGDL\ZOOGDL\Bin\Debug\Telerik.Windows.Behaviors.dll
+C:\Users\Usuario\Documents\Mario\ZOOGDL12\ZOOGDL\ZOOGDL\ZOOGDL\ZOOGDL\Bin\Debug\Telerik.Windows.Controls.Chart.dll
+C:\Users\Usuario\Documents\Mario\ZOOGDL12\ZOOGDL\ZOOGDL\ZOOGDL\ZOOGDL\Bin\Debug\Telerik.Windows.Controls.Data.dll
+C:\Users\Usuario\Documents\Mario\ZOOGDL12\ZOOGDL\ZOOGDL\ZOOGDL\ZOOGDL\Bin\Debug\Telerik.Windows.Controls.DataVisualization.dll
+C:\Users\Usuario\Documents\Mario\ZOOGDL12\ZOOGDL\ZOOGDL\ZOOGDL\ZOOGDL\Bin\Debug\Telerik.Windows.Controls.ImageEditor.dll
+C:\Users\Usuario\Documents\Mario\ZOOGDL12\ZOOGDL\ZOOGDL\ZOOGDL\ZOOGDL\Bin\Debug\Telerik.Windows.Controls.Input.dll
+C:\Users\Usuario\Documents\Mario\ZOOGDL12\ZOOGDL\ZOOGDL\ZOOGDL\ZOOGDL\Bin\Debug\Telerik.Windows.Controls.Primitives.dll
+C:\Users\Usuario\Documents\Mario\ZOOGDL12\ZOOGDL\ZOOGDL\ZOOGDL\ZOOGDL\Bin\Debug\Telerik.Windows.Core.dll
+C:\Users\Usuario\Documents\Mario\ZOOGDL12\ZOOGDL\ZOOGDL\ZOOGDL\ZOOGDL\Bin\Debug\Telerik.Windows.Data.dll
+C:\Users\Usuario\Documents\Mario\ZOOGDL12\ZOOGDL\ZOOGDL\ZOOGDL\ZOOGDL\Bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Usuario\Documents\Mario\ZOOGDL12\ZOOGDL\ZOOGDL\ZOOGDL\ZOOGDL\Bin\Debug\Newtonsoft.Json.xml
+C:\Users\Usuario\Documents\Mario\ZOOGDL12\ZOOGDL\ZOOGDL\ZOOGDL\ZOOGDL\Bin\Debug\Telerik.Windows.BackgroundAgentTools.pdb
+C:\Users\Usuario\Documents\Mario\ZOOGDL12\ZOOGDL\ZOOGDL\ZOOGDL\ZOOGDL\Bin\Debug\Telerik.Windows.BackgroundAgentTools.xml
+C:\Users\Usuario\Documents\Mario\ZOOGDL12\ZOOGDL\ZOOGDL\ZOOGDL\ZOOGDL\Bin\Debug\Telerik.Windows.Behaviors.pdb
+C:\Users\Usuario\Documents\Mario\ZOOGDL12\ZOOGDL\ZOOGDL\ZOOGDL\ZOOGDL\Bin\Debug\Telerik.Windows.Behaviors.xml
+C:\Users\Usuario\Documents\Mario\ZOOGDL12\ZOOGDL\ZOOGDL\ZOOGDL\ZOOGDL\Bin\Debug\Telerik.Windows.Controls.Chart.pdb
+C:\Users\Usuario\Documents\Mario\ZOOGDL12\ZOOGDL\ZOOGDL\ZOOGDL\ZOOGDL\Bin\Debug\Telerik.Windows.Controls.Chart.xml
+C:\Users\Usuario\Documents\Mario\ZOOGDL12\ZOOGDL\ZOOGDL\ZOOGDL\ZOOGDL\Bin\Debug\Telerik.Windows.Controls.Data.pdb
+C:\Users\Usuario\Documents\Mario\ZOOGDL12\ZOOGDL\ZOOGDL\ZOOGDL\ZOOGDL\Bin\Debug\Telerik.Windows.Controls.Data.xml
+C:\Users\Usuario\Documents\Mario\ZOOGDL12\ZOOGDL\ZOOGDL\ZOOGDL\ZOOGDL\Bin\Debug\Telerik.Windows.Controls.DataVisualization.pdb
+C:\Users\Usuario\Documents\Mario\ZOOGDL12\ZOOGDL\ZOOGDL\ZOOGDL\ZOOGDL\Bin\Debug\Telerik.Windows.Controls.DataVisualization.xml
+C:\Users\Usuario\Documents\Mario\ZOOGDL12\ZOOGDL\ZOOGDL\ZOOGDL\ZOOGDL\Bin\Debug\Telerik.Windows.Controls.ImageEditor.pdb
+C:\Users\Usuario\Documents\Mario\ZOOGDL12\ZOOGDL\ZOOGDL\ZOOGDL\ZOOGDL\Bin\Debug\Telerik.Windows.Controls.ImageEditor.xml
+C:\Users\Usuario\Documents\Mario\ZOOGDL12\ZOOGDL\ZOOGDL\ZOOGDL\ZOOGDL\Bin\Debug\Telerik.Windows.Controls.Input.pdb
+C:\Users\Usuario\Documents\Mario\ZOOGDL12\ZOOGDL\ZOOGDL\ZOOGDL\ZOOGDL\Bin\Debug\Telerik.Windows.Controls.Input.xml
+C:\Users\Usuario\Documents\Mario\ZOOGDL12\ZOOGDL\ZOOGDL\ZOOGDL\ZOOGDL\Bin\Debug\Telerik.Windows.Controls.Primitives.pdb
+C:\Users\Usuario\Documents\Mario\ZOOGDL12\ZOOGDL\ZOOGDL\ZOOGDL\ZOOGDL\Bin\Debug\Telerik.Windows.Controls.Primitives.xml
+C:\Users\Usuario\Documents\Mario\ZOOGDL12\ZOOGDL\ZOOGDL\ZOOGDL\ZOOGDL\Bin\Debug\Telerik.Windows.Core.pdb
+C:\Users\Usuario\Documents\Mario\ZOOGDL12\ZOOGDL\ZOOGDL\ZOOGDL\ZOOGDL\Bin\Debug\Telerik.Windows.Core.xml
+C:\Users\Usuario\Documents\Mario\ZOOGDL12\ZOOGDL\ZOOGDL\ZOOGDL\ZOOGDL\Bin\Debug\Telerik.Windows.Data.pdb
+C:\Users\Usuario\Documents\Mario\ZOOGDL12\ZOOGDL\ZOOGDL\ZOOGDL\ZOOGDL\Bin\Debug\Telerik.Windows.Data.xml
+C:\Users\Usuario\Documents\Mario\ZOOGDL12\ZOOGDL\ZOOGDL\ZOOGDL\ZOOGDL\Bin\Debug\de-DE\Telerik.Windows.Controls.ImageEditor.resources.dll
+C:\Users\Usuario\Documents\Mario\ZOOGDL12\ZOOGDL\ZOOGDL\ZOOGDL\ZOOGDL\Bin\Debug\fr-FR\Telerik.Windows.Controls.ImageEditor.resources.dll
+C:\Users\Usuario\Documents\Mario\ZOOGDL12\ZOOGDL\ZOOGDL\ZOOGDL\ZOOGDL\Bin\Debug\it-IT\Telerik.Windows.Controls.ImageEditor.resources.dll
+C:\Users\Usuario\Documents\Mario\ZOOGDL12\ZOOGDL\ZOOGDL\ZOOGDL\ZOOGDL\Bin\Debug\de-DE\Telerik.Windows.Controls.Input.resources.dll
+C:\Users\Usuario\Documents\Mario\ZOOGDL12\ZOOGDL\ZOOGDL\ZOOGDL\ZOOGDL\Bin\Debug\fr-FR\Telerik.Windows.Controls.Input.resources.dll
+C:\Users\Usuario\Documents\Mario\ZOOGDL12\ZOOGDL\ZOOGDL\ZOOGDL\ZOOGDL\Bin\Debug\it-IT\Telerik.Windows.Controls.Input.resources.dll
+C:\Users\Usuario\Documents\Mario\ZOOGDL12\ZOOGDL\ZOOGDL\ZOOGDL\ZOOGDL\Bin\Debug\de-DE\Telerik.Windows.Controls.Primitives.resources.dll
+C:\Users\Usuario\Documents\Mario\ZOOGDL12\ZOOGDL\ZOOGDL\ZOOGDL\ZOOGDL\Bin\Debug\fr-FR\Telerik.Windows.Controls.Primitives.resources.dll
+C:\Users\Usuario\Documents\Mario\ZOOGDL12\ZOOGDL\ZOOGDL\ZOOGDL\ZOOGDL\Bin\Debug\it-IT\Telerik.Windows.Controls.Primitives.resources.dll
+C:\Users\Usuario\Documents\Mario\ZOOGDL12\ZOOGDL\ZOOGDL\ZOOGDL\ZOOGDL\Bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\Usuario\Documents\Mario\ZOOGDL12\ZOOGDL\ZOOGDL\ZOOGDL\ZOOGDL\Bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\Usuario\Documents\Mario\ZOOGDL12\ZOOGDL\ZOOGDL\ZOOGDL\ZOOGDL\Bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\Usuario\Documents\Mario\ZOOGDL12\ZOOGDL\ZOOGDL\ZOOGDL\ZOOGDL\Bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Usuario\Documents\Mario\ZOOGDL12\ZOOGDL\ZOOGDL\ZOOGDL\ZOOGDL\Bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\Usuario\Documents\Mario\ZOOGDL12\ZOOGDL\ZOOGDL\ZOOGDL\ZOOGDL\Bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Usuario\Documents\Mario\ZOOGDL12\ZOOGDL\ZOOGDL\ZOOGDL\ZOOGDL\Bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Usuario\Documents\Mario\ZOOGDL12\ZOOGDL\ZOOGDL\ZOOGDL\ZOOGDL\Bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\Usuario\Documents\Mario\ZOOGDL12\ZOOGDL\ZOOGDL\ZOOGDL\ZOOGDL\Bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Usuario\Documents\Mario\ZOOGDL12\ZOOGDL\ZOOGDL\ZOOGDL\ZOOGDL\Bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Usuario\Documents\Mario\ZOOGDL12\ZOOGDL\ZOOGDL\ZOOGDL\ZOOGDL\obj\Debug\ZOOGDL.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\Mario\ZOOGDL12\ZOOGDL\ZOOGDL\ZOOGDL\ZOOGDL\obj\Debug\App.g.cs
+C:\Users\Usuario\Documents\Mario\ZOOGDL12\ZOOGDL\ZOOGDL\ZOOGDL\ZOOGDL\obj\Debug\About.g.cs
+C:\Users\Usuario\Documents\Mario\ZOOGDL12\ZOOGDL\ZOOGDL\ZOOGDL\ZOOGDL\obj\Debug\AboutPage.g.cs
+C:\Users\Usuario\Documents\Mario\ZOOGDL12\ZOOGDL\ZOOGDL\ZOOGDL\ZOOGDL\obj\Debug\AnimalData.g.cs
+C:\Users\Usuario\Documents\Mario\ZOOGDL12\ZOOGDL\ZOOGDL\ZOOGDL\ZOOGDL\obj\Debug\Atracciones.g.cs
+C:\Users\Usuario\Documents\Mario\ZOOGDL12\ZOOGDL\ZOOGDL\ZOOGDL\ZOOGDL\obj\Debug\AttractionData.g.cs
+C:\Users\Usuario\Documents\Mario\ZOOGDL12\ZOOGDL\ZOOGDL\ZOOGDL\ZOOGDL\obj\Debug\Especies.g.cs
+C:\Users\Usuario\Documents\Mario\ZOOGDL12\ZOOGDL\ZOOGDL\ZOOGDL\ZOOGDL\obj\Debug\ExtendedSplashScreen.g.cs
+C:\Users\Usuario\Documents\Mario\ZOOGDL12\ZOOGDL\ZOOGDL\ZOOGDL\ZOOGDL\obj\Debug\MainPage.g.cs
+C:\Users\Usuario\Documents\Mario\ZOOGDL12\ZOOGDL\ZOOGDL\ZOOGDL\ZOOGDL\obj\Debug\Map.g.cs
+C:\Users\Usuario\Documents\Mario\ZOOGDL12\ZOOGDL\ZOOGDL\ZOOGDL\ZOOGDL\obj\Debug\MapIcon.g.cs
+C:\Users\Usuario\Documents\Mario\ZOOGDL12\ZOOGDL\ZOOGDL\ZOOGDL\ZOOGDL\obj\Debug\Servicios.g.cs
+C:\Users\Usuario\Documents\Mario\ZOOGDL12\ZOOGDL\ZOOGDL\ZOOGDL\ZOOGDL\obj\Debug\ZOOGDL.g.resources
+C:\Users\Usuario\Documents\Mario\ZOOGDL12\ZOOGDL\ZOOGDL\ZOOGDL\ZOOGDL\obj\Debug\ZOOGDL.Resources.AppResources.resources
+C:\Users\Usuario\Documents\Mario\ZOOGDL12\ZOOGDL\ZOOGDL\ZOOGDL\ZOOGDL\obj\Debug\ZOOGDL.csproj.GenerateResource.Cache
+C:\Users\Usuario\Documents\Mario\ZOOGDL12\ZOOGDL\ZOOGDL\ZOOGDL\ZOOGDL\obj\Debug\ZOOGDL.dll
+C:\Users\Usuario\Documents\Mario\ZOOGDL12\ZOOGDL\ZOOGDL\ZOOGDL\ZOOGDL\obj\Debug\ZOOGDL.pdb
+C:\Users\Usuario\Documents\Mario\ZOOGDL12\ZOOGDL\ZOOGDL\ZOOGDL\ZOOGDL\obj\Debug\XapCacheFile.xml

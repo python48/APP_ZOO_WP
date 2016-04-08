@@ -1,0 +1,965 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<data-set xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<point>
+		<id>1</id>
+		<Latitude>723449</Latitude>
+		<Longitude>308954</Longitude>
+		<Place>Taquilla y Cajero</Place>
+	</point>
+	<point>
+		<id>2</id>
+		<Latitude>723744</Latitude>
+		<Longitude>309056</Longitude>
+		<Place>Sillas de ruedas</Place>
+	</point>
+	<point>
+		<id>3</id>
+		<Latitude>723973</Latitude>
+		<Longitude>308788</Longitude>
+		<Place>Entrada principal </Place>
+	</point>
+	<point>
+		<id>4</id>
+		<Latitude>724258</Latitude>
+		<Longitude>308526</Longitude>
+		<Place>Fuente monos azules</Place>
+	</point>
+	<point>
+		<id>5</id>
+		<Latitude>724373</Latitude>
+		<Longitude>308322</Longitude>
+		<Place>Renta de carriolas</Place>
+	</point>
+	<point>
+		<id>6</id>
+		<Latitude>724624</Latitude>
+		<Longitude>307999</Longitude>
+		<Place>Tucán </Place>
+	</point>
+	<point>
+		<id>7</id>
+		<Latitude>724522</Latitude>
+		<Longitude>308032</Longitude>
+		<Place>Snack tucan </Place>
+	</point>
+	<point>
+		<id>8</id>
+		<Latitude>724839</Latitude>
+		<Longitude>308288</Longitude>
+		<Place>Flamenco </Place>
+	</point>
+	<point>
+		<id>9</id>
+		<Latitude>725225</Latitude>
+		<Longitude>307130</Longitude>
+		<Place>Cocodrilo de río </Place>
+	</point>
+	<point>
+		<id>10</id>
+		<Latitude>725271</Latitude>
+		<Longitude>307439</Longitude>
+		<Place>Tienda de recuerdos </Place>
+	</point>
+	<point>
+		<id>11</id>
+		<Latitude>725171</Latitude>
+		<Longitude>307527</Longitude>
+		<Place>Snack Estacion tren lago</Place>
+	</point>
+	<point>
+		<id>12</id>
+		<Latitude>725146</Latitude>
+		<Longitude>307663</Longitude>
+		<Place>Estacion del tren Lago</Place>
+	</point>
+	<point>
+		<id>13</id>
+		<Latitude>725246</Latitude>
+		<Longitude>307726</Longitude>
+		<Place>Baño </Place>
+	</point>
+	<point>
+		<id>14</id>
+		<Latitude>725241</Latitude>
+		<Longitude>307898</Longitude>
+		<Place>Hipopótamo </Place>
+	</point>
+	<point>
+		<id>15</id>
+		<Latitude>725439</Latitude>
+		<Longitude>307034</Longitude>
+		<Place>Casuario</Place>
+	</point>
+	<point>
+		<id>16</id>
+		<Latitude>725359</Latitude>
+		<Longitude>307506</Longitude>
+		<Place>Restaurant Lago </Place>
+	</point>
+	<point>
+		<id>17</id>
+		<Latitude>725243</Latitude>
+		<Longitude>307289</Longitude>
+		<Place>Sky Zoo</Place>
+	</point>
+	<point>
+		<id>18</id>
+		<Latitude>726019</Latitude>
+		<Longitude>307291</Longitude>
+		<Place>MonkeyLand</Place>
+	</point>
+	<point>
+		<id>19</id>
+		<Latitude>726646</Latitude>
+		<Longitude>307377</Longitude>
+		<Place>Babuino</Place>
+	</point>
+	<point>
+		<id>20</id>
+		<Latitude>726802</Latitude>
+		<Longitude>307420</Longitude>
+		<Place>Mono araña </Place>
+	</point>
+	<point>
+		<id>21</id>
+		<Latitude>727054</Latitude>
+		<Longitude>307313</Longitude>
+		<Place>Gorila </Place>
+	</point>
+	<point>
+		<id>22</id>
+		<Latitude>727189</Latitude>
+		<Longitude>307104</Longitude>
+		<Place>Tienda de recuerdos MonkeyLand</Place>
+	</point>
+	<point>
+		<id>23</id>
+		<Latitude>727301</Latitude>
+		<Longitude>307474</Longitude>
+		<Place>Oso polar </Place>
+	</point>
+	<point>
+		<id>24</id>
+		<Latitude>725654</Latitude>
+		<Longitude>307061</Longitude>
+		<Place>Venado dama dama</Place>
+	</point>
+	<point>
+		<id>25</id>
+		<Latitude>725847</Latitude>
+		<Longitude>307361</Longitude>
+		<Place>Área de descanso </Place>
+	</point>
+	<point>
+		<id>26</id>
+		<Latitude>726387</Latitude>
+		<Longitude>306762</Longitude>
+		<Place>Llama </Place>
+	</point>
+	<point>
+		<id>27</id>
+		<Latitude>726691</Latitude>
+		<Longitude>306747</Longitude>
+		<Place>Snack llamas </Place>
+	</point>
+	<point>
+		<id>28</id>
+		<Latitude>727089</Latitude>
+		<Longitude>306381</Longitude>
+		<Place>Guajolote </Place>
+	</point>
+	<point>
+		<id>29</id>
+		<Latitude>727505</Latitude>
+		<Longitude>306106</Longitude>
+		<Place>Faisanes </Place>
+	</point>
+	<point>
+		<id>30</id>
+		<Latitude>727961</Latitude>
+		<Longitude>305945</Longitude>
+		<Place>Tortuga </Place>
+	</point>
+	<point>
+		<id>31</id>
+		<Latitude>728111</Latitude>
+		<Longitude>305875</Longitude>
+		<Place>Coyote </Place>
+	</point>
+	<point>
+		<id>32</id>
+		<Latitude>728196</Latitude>
+		<Longitude>305904</Longitude>
+		<Place>Hiena </Place>
+	</point>
+	<point>
+		<id>33</id>
+		<Latitude>727853</Latitude>
+		<Longitude>306063</Longitude>
+		<Place>Borrego de Berbería </Place>
+	</point>
+	<point>
+		<id>34</id>
+		<Latitude>728599</Latitude>
+		<Longitude>305827</Longitude>
+		<Place>Venado aPlaceis </Place>
+	</point>
+	<point>
+		<id>35</id>
+		<Latitude>728905</Latitude>
+		<Longitude>305623</Longitude>
+		<Place>Helados Herpetario </Place>
+	</point>
+	<point>
+		<id>36</id>
+		<Latitude>729200</Latitude>
+		<Longitude>305607</Longitude>
+		<Place>Muntjac</Place>
+	</point>
+	<point>
+		<id>37</id>
+		<Latitude>729361</Latitude>
+		<Longitude>305725</Longitude>
+		<Place>Herpetario</Place>
+	</point>
+	<point>
+		<id>38</id>
+		<Latitude>729387</Latitude>
+		<Longitude>305756</Longitude>
+		<Place>Nieve raspada Herpetario</Place>
+	</point>
+	<point>
+		<id>39</id>
+		<Latitude>729549</Latitude>
+		<Longitude>305528</Longitude>
+		<Place>Snack Herpetario  </Place>
+	</point>
+	<point>
+		<id>40</id>
+		<Latitude>730069</Latitude>
+		<Longitude>305403</Longitude>
+		<Place>Dromedario </Place>
+	</point>
+	<point>
+		<id>41</id>
+		<Latitude>730282</Latitude>
+		<Longitude>305284</Longitude>
+		<Place>Águila real</Place>
+	</point>
+	<point>
+		<id>42</id>
+		<Latitude>730165</Latitude>
+		<Longitude>305151</Longitude>
+		<Place>Zopilote</Place>
+	</point>
+	<point>
+		<id>43</id>
+		<Latitude>730219</Latitude>
+		<Longitude>305092</Longitude>
+		<Place>Halcón </Place>
+	</point>
+	<point>
+		<id>44</id>
+		<Latitude>730475</Latitude>
+		<Longitude>304990</Longitude>
+		<Place>Búho </Place>
+	</point>
+	<point>
+		<id>45</id>
+		<Latitude>730621</Latitude>
+		<Longitude>305011</Longitude>
+		<Place>Gavilán </Place>
+	</point>
+	<point>
+		<id>46</id>
+		<Latitude>730836</Latitude>
+		<Longitude>305006</Longitude>
+		<Place>Pericos </Place>
+	</point>
+	<point>
+		<id>47</id>
+		<Latitude>731061</Latitude>
+		<Longitude>305001</Longitude>
+		<Place>Tucán </Place>
+	</point>
+	<point>
+		<id>48</id>
+		<Latitude>731163</Latitude>
+		<Longitude>304974</Longitude>
+		<Place>Chachalaca</Place>
+	</point>
+	<point>
+		<id>49</id>
+		<Latitude>731447</Latitude>
+		<Longitude>305017</Longitude>
+		<Place>Guacamaya </Place>
+	</point>
+	<point>
+		<id>50</id>
+		<Latitude>731716</Latitude>
+		<Longitude>304991</Longitude>
+		<Place>Guacamaya</Place>
+	</point>
+	<point>
+		<id>51</id>
+		<Latitude>731887</Latitude>
+		<Longitude>304920</Longitude>
+		<Place>Guacamaya </Place>
+	</point>
+	<point>
+		<id>52</id>
+		<Latitude>732413</Latitude>
+		<Longitude>304920</Longitude>
+		<Place>Hoco faisán </Place>
+	</point>
+	<point>
+		<id>53</id>
+		<Latitude>732526</Latitude>
+		<Longitude>305103</Longitude>
+		<Place>Cojolite</Place>
+	</point>
+	<point>
+		<id>54</id>
+		<Latitude>732590</Latitude>
+		<Longitude>305243</Longitude>
+		<Place>Baño est barranca </Place>
+	</point>
+	<point>
+		<id>55</id>
+		<Latitude>732566</Latitude>
+		<Longitude>305321</Longitude>
+		<Place>Estación del tren barranca </Place>
+	</point>
+	<point>
+		<id>56</id>
+		<Latitude>732740</Latitude>
+		<Longitude>305602</Longitude>
+		<Place>Mirador</Place>
+	</point>
+	<point>
+		<id>57</id>
+		<Latitude>732713</Latitude>
+		<Longitude>305307</Longitude>
+		<Place>Restaurante barranca</Place>
+	</point>
+	<point>
+		<id>58</id>
+		<Latitude>732831</Latitude>
+		<Longitude>305065</Longitude>
+		<Place>Área de descanso </Place>
+	</point>
+	<point>
+		<id>59</id>
+		<Latitude>732794</Latitude>
+		<Longitude>305248</Longitude>
+		<Place>Mirador sky zoo</Place>
+	</point>
+	<point>
+		<id>60</id>
+		<Latitude>733084</Latitude>
+		<Longitude>306152</Longitude>
+		<Place>Jirafas </Place>
+	</point>
+	<point>
+		<id>61</id>
+		<Latitude>733139</Latitude>
+		<Longitude>306184</Longitude>
+		<Place>Raspado jirafa </Place>
+	</point>
+	<point>
+		<id>62</id>
+		<Latitude>733223</Latitude>
+		<Longitude>306406</Longitude>
+		<Place>Snack jirafas </Place>
+	</point>
+	<point>
+		<id>63</id>
+		<Latitude>733202</Latitude>
+		<Longitude>306336</Longitude>
+		<Place>Antílope </Place>
+	</point>
+	<point>
+		<id>64</id>
+		<Latitude>732333</Latitude>
+		<Longitude>305789</Longitude>
+		<Place>abajo - &gt; arriba</Place>
+	</point>
+	<point>
+		<id>65</id>
+		<Latitude>731887</Latitude>
+		<Longitude>305553</Longitude>
+		<Place>León blanco</Place>
+	</point>
+	<point>
+		<id>66</id>
+		<Latitude>731721</Latitude>
+		<Longitude>305607</Longitude>
+		<Place>Puma</Place>
+	</point>
+	<point>
+		<id>67</id>
+		<Latitude>731439</Latitude>
+		<Longitude>305558</Longitude>
+		<Place>Guepardo </Place>
+	</point>
+	<point>
+		<id>68</id>
+		<Latitude>731218</Latitude>
+		<Longitude>305493</Longitude>
+		<Place>Helados aviario</Place>
+	</point>
+	<point>
+		<id>69</id>
+		<Latitude>731097</Latitude>
+		<Longitude>305544</Longitude>
+		<Place>T recuerdo aviario </Place>
+	</point>
+	<point>
+		<id>70</id>
+		<Latitude>730966</Latitude>
+		<Longitude>305498</Longitude>
+		<Place>Aviario</Place>
+	</point>
+	<point>
+		<id>71</id>
+		<Latitude>730932</Latitude>
+		<Longitude>306058</Longitude>
+		<Place>Crianza</Place>
+	</point>
+	<point>
+		<id>72</id>
+		<Latitude>730938</Latitude>
+		<Longitude>306074</Longitude>
+		<Place>T recuerdos crianza</Place>
+	</point>
+	<point>
+		<id>73</id>
+		<Latitude>730557</Latitude>
+		<Longitude>306074</Longitude>
+		<Place>Pavón </Place>
+	</point>
+	<point>
+		<id>74</id>
+		<Latitude>730497</Latitude>
+		<Longitude>306131</Longitude>
+		<Place>Ciervo wapitt</Place>
+	</point>
+	<point>
+		<id>75</id>
+		<Latitude>727113</Latitude>
+		<Longitude>307662</Longitude>
+		<Place>Ocelote</Place>
+	</point>
+	<point>
+		<id>76</id>
+		<Latitude>727328</Latitude>
+		<Longitude>307597</Longitude>
+		<Place>Tortuga de aldabra</Place>
+	</point>
+	<point>
+		<id>77</id>
+		<Latitude>727226</Latitude>
+		<Longitude>306846</Longitude>
+		<Place>Oso negro americano </Place>
+	</point>
+	<point>
+		<id>78</id>
+		<Latitude>727729</Latitude>
+		<Longitude>306716</Longitude>
+		<Place>Lobo mePlaceicano </Place>
+	</point>
+	<point>
+		<id>79</id>
+		<Latitude>727998</Latitude>
+		<Longitude>306691</Longitude>
+		<Place>Helados auditorio </Place>
+	</point>
+	<point>
+		<id>80</id>
+		<Latitude>729050</Latitude>
+		<Longitude>306272</Longitude>
+		<Place>Bisonte americano</Place>
+	</point>
+	<point>
+		<id>81</id>
+		<Latitude>730010</Latitude>
+		<Longitude>306374</Longitude>
+		<Place>Snack ciervo</Place>
+	</point>
+	<point>
+		<id>82</id>
+		<Latitude>729666</Latitude>
+		<Longitude>306058</Longitude>
+		<Place>Macaco cola de león </Place>
+	</point>
+	<point>
+		<id>83</id>
+		<Latitude>729801</Latitude>
+		<Longitude>305902</Longitude>
+		<Place>Tigre de bengala </Place>
+	</point>
+	<point>
+		<id>84</id>
+		<Latitude>730194</Latitude>
+		<Longitude>305894</Longitude>
+		<Place>Chimpancé </Place>
+	</point>
+	<point>
+		<id>85</id>
+		<Latitude>730321</Latitude>
+		<Longitude>305961</Longitude>
+		<Place>Selva tropical</Place>
+	</point>
+	<point>
+		<id>86</id>
+		<Latitude>730820</Latitude>
+		<Longitude>305602</Longitude>
+		<Place>Selva tropical</Place>
+	</point>
+	<point>
+		<id>87</id>
+		<Latitude>730654</Latitude>
+		<Longitude>305070</Longitude>
+		<Place>Jaguar</Place>
+	</point>
+	<point>
+		<id>88</id>
+		<Latitude>730632</Latitude>
+		<Longitude>305242</Longitude>
+		<Place>Capibara</Place>
+	</point>
+	<point>
+		<id>89</id>
+		<Latitude>730369</Latitude>
+		<Longitude>305425</Longitude>
+		<Place>Oso hormiguero </Place>
+	</point>
+	<point>
+		<id>90</id>
+		<Latitude>729286</Latitude>
+		<Longitude>306932</Longitude>
+		<Place>Rancho veterinario </Place>
+	</point>
+	<point>
+		<id>91</id>
+		<Latitude>728840</Latitude>
+		<Longitude>307023</Longitude>
+		<Place>T recuerdo rancho veterinario</Place>
+	</point>
+	<point>
+		<id>92</id>
+		<Latitude>728638</Latitude>
+		<Longitude>307147</Longitude>
+		<Place>Restaurante safari </Place>
+	</point>
+	<point>
+		<id>93</id>
+		<Latitude>728792</Latitude>
+		<Longitude>306884</Longitude>
+		<Place>Estación del tren safari </Place>
+	</point>
+	<point>
+		<id>94</id>
+		<Latitude>728820</Latitude>
+		<Longitude>307655</Longitude>
+		<Place>Safari</Place>
+	</point>
+	<point>
+		<id>95</id>
+		<Latitude>728561</Latitude>
+		<Longitude>307876</Longitude>
+		<Place>T recuerdos y Snack Safari  </Place>
+	</point>
+	<point>
+		<id>96</id>
+		<Latitude>728636</Latitude>
+		<Longitude>307173</Longitude>
+		<Place>Baños estación safari </Place>
+	</point>
+	<point>
+		<id>97</id>
+		<Latitude>728338</Latitude>
+		<Longitude>306860</Longitude>
+		<Place>Liebre de la Patagonia </Place>
+	</point>
+	<point>
+		<id>98</id>
+		<Latitude>728036</Latitude>
+		<Longitude>306809</Longitude>
+		<Place>Auditorio </Place>
+	</point>
+	<point>
+		<id>99</id>
+		<Latitude>725587</Latitude>
+		<Longitude>308143</Longitude>
+		<Place>CIA</Place>
+	</point>
+	<point>
+		<id>100</id>
+		<Latitude>725690</Latitude>
+		<Longitude>308394</Longitude>
+		<Place>Raspados hipopótamo </Place>
+	</point>
+	<point>
+		<id>101</id>
+		<Latitude>725231</Latitude>
+		<Longitude>308685</Longitude>
+		<Place>Helados y t recuerdo  Selva Mágica</Place>
+	</point>
+	<point>
+		<id>102</id>
+		<Latitude>725343</Latitude>
+		<Longitude>308824</Longitude>
+		<Place>Selva mágica </Place>
+	</point>
+	<point>
+		<id>103</id>
+		<Latitude>725399</Latitude>
+		<Longitude>309612</Longitude>
+		<Place>Pingüinos </Place>
+	</point>
+	<point>
+		<id>104</id>
+		<Latitude>725071</Latitude>
+		<Longitude>309962</Longitude>
+		<Place>Acuario </Place>
+	</point>
+	<point>
+		<id>105</id>
+		<Latitude>725246</Latitude>
+		<Longitude>310596</Longitude>
+		<Place>Snack acuario</Place>
+	</point>
+	<point>
+		<id>106</id>
+		<Latitude>725195</Latitude>
+		<Longitude>310630</Longitude>
+		<Place>T recuerdos acuario </Place>
+	</point>
+	<point>
+		<id>107</id>
+		<Latitude>725343</Latitude>
+		<Longitude>311068</Longitude>
+		<Place>Mono araña</Place>
+	</point>
+	<point>
+		<id>108</id>
+		<Latitude>725166</Latitude>
+		<Longitude>311561</Longitude>
+		<Place>Villa australiana</Place>
+	</point>
+	<point>
+		<id>109</id>
+		<Latitude>725568</Latitude>
+		<Longitude>312109</Longitude>
+		<Place>Baños villa </Place>
+	</point>
+	<point>
+		<id>110</id>
+		<Latitude>725981</Latitude>
+		<Longitude>313326</Longitude>
+		<Place>Salón de eventos </Place>
+	</point>
+	<point>
+		<id>111</id>
+		<Latitude>726317</Latitude>
+		<Longitude>313506</Longitude>
+		<Place>Baños entrada </Place>
+	</point>
+	<point>
+		<id>112</id>
+		<Latitude>726246</Latitude>
+		<Longitude>313555</Longitude>
+		<Place>Entrada calzada independencia </Place>
+	</point>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+	<point/>
+</data-set>
